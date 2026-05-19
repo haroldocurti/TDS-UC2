@@ -51,3 +51,4 @@ Estes são os critérios observáveis que atestam o domínio da competência pel
 - **Aula 05 (08/05/2026):** Terminal, Git e a Identidade do Desenvolvedor.
 - **Aula 06 (11/05/2026):** O Salto para a Nuvem: GitHub, Remotos e o Fluxo de Trabalho Colaborativo.
 - **Aula 07 (18/05/2026):** Trabalho Colaborativo na Prática: Branches, Resolução de Problemas e Pull Requests.
+- **Aula 08 (19/05/2026):** Reforço Prático de Colaboração.
